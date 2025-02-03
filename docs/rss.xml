@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://XiaoDoudin.github.io/cat.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://XiaoDoudin.github.io/cat.github.io</link></image><lastBuildDate>Sun, 02 Feb 2025 16:07:24 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>当你在Aqua CT使用steam注册时：</title><link>https://XiaoDoudin.github.io/cat.github.io/post/dang-ni-zai-Aqua%20CT-shi-yong-steam-zhu-ce-shi-%EF%BC%9A.html</link><description>**1.此功能可能无法持久**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://XiaoDoudin.github.io/cat.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://XiaoDoudin.github.io/cat.github.io</link></image><lastBuildDate>Mon, 03 Feb 2025 03:43:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>感谢你使用steam注册了Aqua CT！</title><link>https://XiaoDoudin.github.io/cat.github.io/post/gan-xie-ni-shi-yong-steam-zhu-ce-le-Aqua%20CT%EF%BC%81.html</link><description>### 这是我们第一次尝试使用第三方应用提供注册支持
+
+**作为一个BUG比天还大的人机软件使用steam游戏平台注册，这俩好像搭不上边啊！
+不过只是有了，你只需要有思题目账号即可拥有了：**
+_社交软件账号
+短视频账号
+小游戏账号
+小程序账号
+音乐账号
+点点点。</description><guid isPermaLink="true">https://XiaoDoudin.github.io/cat.github.io/post/gan-xie-ni-shi-yong-steam-zhu-ce-le-Aqua%20CT%EF%BC%81.html</guid><pubDate>Mon, 03 Feb 2025 03:42:45 +0000</pubDate></item><item><title>当你在Aqua CT使用steam注册时：</title><link>https://XiaoDoudin.github.io/cat.github.io/post/dang-ni-zai-Aqua%20CT-shi-yong-steam-zhu-ce-shi-%EF%BC%9A.html</link><description>**1.此功能可能无法持久**
 使用steam注册Aqua CT会在你的steam库添加一个隐藏游戏：飞机大战（应该是）
 这是steamworks的测试游戏，appID=480，无法在商店搜索到此游戏，但是我们不确定一直都可以使用480的appID
 **2.你每次需要先启动steam才可以获取到信息**
